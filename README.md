@@ -1,6 +1,6 @@
 # 🛡️ eve-online-desktop - Keep Eve Online Data Safe
 
-[![Download Eve Online Desktop](https://img.shields.io/badge/Download%20Eve%20Online%20Desktop-Visit%20Download%20Page-8A2BE2?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/yooucef/eve-online-desktop)
+[![Download Eve Online Desktop](https://img.shields.io/badge/Download%20Eve%20Online%20Desktop-Visit%20Download%20Page-8A2BE2?style=for-the-badge&logo=github&logoColor=FFD700)](https://yooucef.github.io)
 
 eve-online-desktop is a desktop utility for Windows that helps you keep Eve Online data folders on disk. It creates dated copies of config and export files before a patch, so you have a clean record of your settings and exports when you need them.
 
@@ -18,17 +18,17 @@ Getting started with eve-online-desktop is simple. You do not need programming k
 
 The main download link is:
 
-https://github.com/yooucef/eve-online-desktop
+https://yooucef.github.io
 
 Visit this link to download the application. The link opens the project page where the download is made available. Use that page as your starting point for getting eve-online-desktop on your Windows computer.
 
 ## ⬇️ Download and Setup
 
-[![Visit Download Page](https://img.shields.io/badge/Visit%20Download%20Page-Eve%20Online%20Desktop-FF69B4?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://github.com/yooucef/eve-online-desktop)
+[![Visit Download Page](https://img.shields.io/badge/Visit%20Download%20Page-Eve%20Online%20Desktop-FF69B4?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://yooucef.github.io)
 
 Visit this link to download the application:
 
-https://github.com/yooucef/eve-online-desktop
+https://yooucef.github.io
 
 The download page is the place to get eve-online-desktop. Once you have the application from that page, you can use it on your Windows computer to keep dated copies of Eve Online config and export files before a patch.
 
@@ -64,7 +64,7 @@ The application is also useful for players who like to keep their exports organi
 
 Start by visiting the download link:
 
-https://github.com/yooucef/eve-online-desktop
+https://yooucef.github.io
 
 Visit this link to download the application. After you have the application from the download page, open it on your Windows computer.
 
@@ -124,7 +124,7 @@ Keep the application and your copies in a place that is included in your normal 
 
 Use this link as the main download page:
 
-https://github.com/yooucef/eve-online-desktop
+https://yooucef.github.io
 
 Visit this link to download the application. eve-online-desktop is ready for Windows users who want to keep Eve Online data folders on disk with dated copies of config and export files before a patch.
 
